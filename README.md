@@ -2,14 +2,16 @@
 A dummy server for testing purposes
 
 
-- How to use
+#How to use
 
 * install dependencies using pip
 
 pip install -r requirements.txt
 
-* start
+#Start
+
 python main.py
+
 
 Three endpoints are available on any ip interface (0.0.0.0) on port 7777
 
