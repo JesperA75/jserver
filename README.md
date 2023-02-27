@@ -5,6 +5,7 @@ A dummy server for testing purposes
 - How to use
 
 * install dependencies using pip
+
 pip install -r requirements.txt
 
 * start
